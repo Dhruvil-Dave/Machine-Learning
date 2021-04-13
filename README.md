@@ -1,1 +1,1 @@
-Machine Learning basic models and templates
+Machine Learning basic regression models and templates
